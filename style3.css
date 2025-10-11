@@ -1,0 +1,82 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color:rgb(203, 227, 84);
+    padding: 20px;
+    border: 3px solid rgb(73, 70, 46);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    text-align: center;
+}
+header a{
+    color: black;
+    text-decoration:none;
+    background-color: rgb(208, 223, 142);
+    border-radius: 5px;
+    border: 3px solid rgb(73, 70, 46);
+    padding: 10px;
+    margin: 5px;
+}
+main h1{
+    color: rgb(74, 82, 43);
+    border-radius: 10px;
+    text-decoration:overline;
+}
+footer{
+    background-color: rgb(73, 70, 46);
+    padding: 3px;
+    margin: 5px;
+    border-radius: 5px;
+}
+footer p{
+    background-color: white;
+    border: 3px solid rgb(174, 194, 138);
+    margin: 3px;
+    padding:5px;
+    text-align: justify;
+
+}
+nav{
+    background-color: rgb(208, 223, 142);
+    padding: 10px;
+    padding-left: 35px;
+}
+nav a{
+    text-decoration: none;
+    padding: 25px;
+    color: rgb(73, 70, 46);
+    font-weight: bold;
+    font-family: 'Lucida Sans';
+}
+.product{
+    background-color:  rgb(208, 223, 142);
+    border-radius: 10px;
+    padding: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+h2{
+    color:  rgb(73, 70, 46);
+    text-decoration:overline;
+}
+.gift{
+    border:8px dotted rgb(73, 70, 46) ;
+    margin: 5px;
+    border-radius: 20px;
+}
+.contacts{
+    text-align: center;
+    text-decoration: none;
+    border: 3px solid rgb(73, 70, 46) ;
+    padding: 10px;
+    border-radius: 10px;
+    background-color:  rgb(208, 223, 142);
+    color: black;
+}
+main{
+    text-align: center;
+}
+img{
+    border-radius: 10px;
+}
